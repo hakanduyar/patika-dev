@@ -9,3 +9,26 @@
 .border-bottom-dark {
   border-bottom: solid 1px rgba(41, 41, 41, 1);
 }
+
+.bu,
+.fh,
+.fi,
+.fj,
+.fk,
+.fl {
+  color: rgba(230, 230, 230, 1);
+  letter-spacing: -2px;
+  line-height: 36px;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.aside-buttons > li {
+  margin-bottom: 6px;
+}
+
+.ai {
+  background-color: lightgrey;
+  border-radius: 25px;
+}
